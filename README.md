@@ -17,3 +17,10 @@ Is deze website aanwezig op sociale netwerken?
 Maak een lijst met aanbevelingen van toekomstige wijzigingen.
 1. Meer kleuren.
 2. Grotere letters.
+
+Een aanbeveling voor een toekomstige wijziging
+> pas uw lettertype aan
+
+lijst toevoegen van groepsleden
+1. Asef Camel
+2. Giuseppe Ieroianni
